@@ -1,1 +1,4 @@
 goto chrome search github
+click on second link 
+
+create account and sign in
